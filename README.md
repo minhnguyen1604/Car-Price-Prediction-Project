@@ -1,2 +1,2 @@
-# Car-Price-Prediction-using-R
+# Car-Price-Prediction
 This project explores car pricing dynamics using multiple linear regression models in R. It begins with thorough data cleaning, followed by an exploratory data analysis (EDA) to identify patterns in car prices. The core of the study involves selecting independent variables like engine specifications and weight to develop predictive models. The process includes addressing collinearity and testing model assumptions for robustness. The study extends to interaction models, using tests like ANOVA for deeper insights. Finally, model selection is done using AIC and stepwise search methods, leading to a model that balances simplicity and effectiveness for predicting car prices within the dataset.
